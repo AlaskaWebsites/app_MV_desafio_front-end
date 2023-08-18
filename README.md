@@ -2,7 +2,7 @@
 
 Desafio para vaga de desenvolvedor front-end Jr na empresa COMEIA.
 
-<img src="./src/assets/img/design1.png" alt="Desafio-MV">
+<img src="./src/assets/img/design.png" alt="Desafio-MV">
 <img src="./src/assets/img/design2.png" alt="Desafio-MV">
 <img src="./src/assets/img/design3.png" alt="Desafio-MV">
 
